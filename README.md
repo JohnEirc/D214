@@ -2,6 +2,14 @@ This is my Capstone project to complete the Master of Science Data Analytics at 
 
 The topic is to statistically compare annual income potential by education. 
 
+LINK
+https://johneirc.github.io/D214/
+
+
+
+
+
+
 
 
 
