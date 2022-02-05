@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Does Higher Education Pay?"
+author: "John-Eric Bonilla"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
